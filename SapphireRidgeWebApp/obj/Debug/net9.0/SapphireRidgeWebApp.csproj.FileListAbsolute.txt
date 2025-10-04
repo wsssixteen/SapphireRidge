@@ -25,3 +25,4 @@ c:\Users\vice4\Documents\7. Code Projects\1. Visual Code\ASP.NET\SapphireRidge\S
 c:\Users\vice4\Documents\7. Code Projects\1. Visual Code\ASP.NET\SapphireRidge\SapphireRidgeWebApp\obj\Debug\net9.0\SapphireRidgeWebApp.pdb
 c:\Users\vice4\Documents\7. Code Projects\1. Visual Code\ASP.NET\SapphireRidge\SapphireRidgeWebApp\obj\Debug\net9.0\SapphireRidgeWebApp.genruntimeconfig.cache
 c:\Users\vice4\Documents\7. Code Projects\1. Visual Code\ASP.NET\SapphireRidge\SapphireRidgeWebApp\obj\Debug\net9.0\ref\SapphireRidgeWebApp.dll
+c:\Users\vice4\Documents\7. Code Projects\1. Visual Code\ASP.NET\SapphireRidge\SapphireRidgeWebApp\obj\Debug\net9.0\SapphireRidgeWebApp.sourcelink.json

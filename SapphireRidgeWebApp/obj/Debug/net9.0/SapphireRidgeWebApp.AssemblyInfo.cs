@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SapphireRidgeWebApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c7eaf5ceef3e8f1e2f80f473eb26ede6016150ad")]
 [assembly: System.Reflection.AssemblyProductAttribute("SapphireRidgeWebApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SapphireRidgeWebApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

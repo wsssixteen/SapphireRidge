@@ -1,0 +1,19 @@
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+.vs/
+
+# Logs
+*.log
+
+# Temporary files
+*.cache
+*.pdb
+
+# OS files
+.DS_Store
+Thumbs.db
